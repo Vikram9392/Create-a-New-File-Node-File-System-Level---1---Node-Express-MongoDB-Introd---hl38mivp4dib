@@ -6,5 +6,5 @@ const writeFile = async (fileName, fileContent) => {
   // write code here
   // dont change function name
 };
-
+writeFile(fileName,fileContent);
 module.exports = { writeFile };
